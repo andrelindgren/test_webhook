@@ -1,5 +1,5 @@
 import unittest
-from src.myprogram import my_function  # Replace 'your_module' with the actual name of the file where my_function is defined
+from src.my_program import my_function  # Replace 'your_module' with the actual name of the file where my_function is defined
 
 class TestMyFunction(unittest.TestCase):
     def test_returns_same_text(self):
